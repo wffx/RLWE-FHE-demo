@@ -28,14 +28,5 @@ make
 
 ### Note for my implementation:
 
-1. The initiation of msg is defined in code, not from terminal or textfile.
-
-2. I don't strictly caculate the bound parameter and just give suitable instantiation which seems correctly.  
-
-3. I totally follow the implementation of somewhat homomophic encryption in FV.pdf, including "relinearisation"
-
-
-### output 
-
-./demo > output
+1. There is still something wrong in the bound of parameters. to be continued ... 
 
